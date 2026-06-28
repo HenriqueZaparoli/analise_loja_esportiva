@@ -1,0 +1,441 @@
+ID_Venda,Data,Produto,Quantidade,Preco_Unitario,Vendedor,Regiao,Loja
+1367,27/05/2024,CAMISA CORINTHIANS,3,"183,05",João Pedro,Sul,Loja Centro
+1104,2024-09-19,CAMISA SÃO PAULO,4,142.58,Carla Mendes,sul,Loja Outlet
+1219,24/08/2024,Meiao Esportivo,1,"52,11",Fernanda,NORTE,Loja Shopping Center
+1319,22/09/2024,Meião Esportivo M,1,"52,11", João Pedro,Centro Oeste,Loja Centro
+1348,05/03/24,Bola Futebol Penalty,2,"140,47",ana souza,Sul,Loja Shopping Center
+1308,17.08.2024,Meião Esportivo,5,46.90,João,Nordeste,Loja Centro
+1412,09/10/24,Short Bermuda Dry-Fit G,4,196.42,FERNANDA COSTA,Centro Oeste,Loja Outlet
+1126,2024-06-12,Bola Futebol Penalty M,5,"140,47",DIEGO ALVES,Nordeste,Loja Shopping Center
+1159,22.12.2024, Camisa Flamengo ,2,300.64,Bruno, Sudeste ,Loja Centro
+1402,07/06/24,tênis corrida asics,5,338.85,Ana,Centro-Oeste,Loja Outlet
+1180,24/02/2024,Camisa Fluminense,1,351.18,Fernanda,centro-oeste,Loja Outlet
+1230,2024-11-09,Camisa Flamengo G,1,300.64,Fernanda Costa,Sul,Loja Online
+1142,09.03.2024,Bola Futebol Penalty,5,140.47,Diego,Norte,Loja Outlet
+1248,29/11/24, Mochila Esportiva ,1,"453,46",Bruno,SUL,Loja Online
+1182,23/09/24,camisa seleção brasileira,3,"100,28",carla mendes, Nordeste ,Loja Centro
+1190,16/10/24,Camiseta Palmeiras,1,"43,69",Bruno Lima ,NORDESTE,Loja Outlet
+1406,11/10/2024,Camisa Corinthians,5,"166,41",Ana Souza , Norte ,Loja Online
+1358,18-Jan-24,Camiseta Seleção Brasileira,1,94.71, Carla Mendes, Centro-Oeste ,Loja Shopping Center
+1323,23-Jul-24,Luva de Goleiro,1,264.32,joão pedro,sul,Loja Shopping Center
+1303,22-Sep-24,CAMISA INTERNACIONAL,4,"R$ 71,90",carla mendes,,Loja Centro
+1293,10/03/24,Meião Esportivo G,2,57.32,João Pedro,CENTRO-OESTE,Loja Centro
+1408,10-Aug-24, Tênis Corrida Asics ,1,"288,02",Bruno,nordeste,Loja Online
+1007,23.11.2024,Camiseta Seleção Brasileira,2,"111,42",FERNANDA COSTA,Norte,Loja Online
+1211,21/09/2024,Camisa Corinthians M,4,"R$ 166,41",Ana Souza ,SUDESTE,Loja Centro
+1337,27.08.2024,Camisa Fluminense,2,"R$ 298,50",Ana,nordeste,Loja Outlet
+1364,2024-12-23,Camisa Palmeiras G,1,46.26,Carla Mendes,Centro Oeste,Loja Outlet
+1048,22/02/2024,Chuteira Nike Mercurial,2,"R$ 210,58",Ana Souza ,NORDESTE,Loja Outlet
+1114,19/12/24,Agasalho Treino,3,"324,94", Carla Mendes, Norte ,Loja Centro
+1373,24.10.2024,Garrafa Térmica Squeeze M,2,"42,89",Diego Alves ,SUL,Loja Centro
+1393,30/07/2024,tênis corrida mizuno,2,"246,98", João Pedro,,Loja Outlet
+1352,28-Jul-24,Bermuda Esportiva,1,"141,30",,norte,Loja Online
+1108,29/05/24,Luva de Goleiro,1,"264,32",João Pedro ,NORTE,Loja Centro
+1419,29/02/2024,boné time brasileirão,1,"R$ 369,52",Bruno Lima ,Nordeste,Loja Online
+1400,09-Nov-24,Camiseta Vasco,5,378.68,,Sul,Loja Online
+1002,2024-06-30,Camisa São Paulo G,2,"156,84", Carla Mendes,NORDESTE,Loja Online
+1088,08/08/2024,Tênis Corrida Asics G,2,"R$ 372,74",CARLA MENDES,Norte,Loja Online
+1229,24.04.2024,Tênis Corrida Mizuno M,1,"261,51",Bruno,Norte,Loja Online
+1154,22.10.2024,camisa palmeiras,3,"51,40",fernanda costa,Sul,Loja Online
+1380,2024-08-24, Camisa Palmeiras ,4,"51,40", Carla Mendes,centro-oeste,Loja Online
+1081,15.09.2024,Luva de Goleiro M,4,"310,96",Diego Alves ,norte,Loja Outlet
+1113,12/02/24,Meião Esportivo M,1,46.90, Bruno Lima,centro-oeste,Loja Online
+1093,29.03.2024,bola futebol society,1,"299,60",Bruno Lima,sul,Loja Centro
+1008,04-Jul-24,Bermuda Esportiva,2,141.30,fernanda costa,Centro-Oeste,Loja Shopping Center
+1023,13/10/24,Camisa Palmeiras M,1,51.40,Bruno,Sul,Loja Online
+1185,2024-06-15,SHORT BERMUDA DRY-FIT,5,"196,42",Fernanda Costa,NORTE,Loja Online
+1278,20/05/24,Garrafa Térmica Squeeze M,3,"R$ 42,89", Fernanda Costa,Centro Oeste,Loja Centro
+1272,20/10/24,Camisa Internacional G,1,"R$ 71,90",DIEGO ALVES, Sudeste ,Loja Outlet
+1039,12/04/2024, Bola Futebol Society ,1,272.36,João Pedro,Sudeste,Loja Centro
+1118,07/02/24,Garrafa Térmica Squeeze,1,"R$ 47,18", João Pedro,Sul,Loja Centro
+1075,30-Apr-24,Chuteira Nike Mercurial,1,"257,38",joão pedro, Sul ,Loja Outlet
+1194,2024-09-07, Camisa Vasco ,2,"R$ 416,55",Bruno,NORDESTE,Loja Outlet
+1212,2024-11-14,Camisa Corinthians,5,"R$ 166,41",ana souza,sul,Loja Online
+1343,03-Aug-24,CAMISA INTERNACIONAL,5,"R$ 79,89",Bruno Lima,,Loja Online
+1316,29.08.2024,Agasalho Treino,4,"361,04", Bruno Lima,Sudeste,Loja Centro
+1100,2024-04-25,Bola Futebol Society,1,"272,36",BRUNO LIMA, Nordeste ,Loja Centro
+1269,24/01/2024,camisa flamengo,2,"367,44",, Sudeste ,Loja Outlet
+1257,01/09/24,camisa corinthians,1,166.41, Fernanda Costa, Centro-Oeste ,Loja Outlet
+1057,06.04.2024,Meião Esportivo,3,"R$ 44,29",João Pedro , Centro-Oeste ,Loja Shopping Center
+1385,28/07/24,Garrafa Termica Squeeze,1,"36,46",BRUNO LIMA, Norte ,Loja Outlet
+1252,2024-06-24,Chuteira Nike Mercurial G,5,"257,38", Diego Alves,Sudeste,Loja Centro
+1279,2024-04-12,Camiseta Seleção Brasileira,2,"122,56",João Pedro ,Nordeste,Loja Centro
+1329,2024-10-21,Bola Futebol Society G,1,"299,60", Carla Mendes,Sul,Loja Centro
+1379,05.05.2024,Mochila Esportiva,4,"453,46",Fernanda Costa, Centro-Oeste ,Loja Shopping Center
+1074,2024-10-27,luva de goleiro,4,"342,06", Diego Alves,Nordeste,Loja Outlet
+1144,04-Jan-24,AGASALHO TREINO,4,"R$ 361,04",BRUNO LIMA,centro-oeste,Loja Centro
+1298,30/12/24,Bola Futebol Penalty G,2,140.47,Bruno Lima,NORDESTE,Loja Centro
+1255,2024-03-11,Agasalho Treino G,3,"R$ 324,94",fernanda costa,Centro-Oeste,Loja Centro
+1368,2024-11-14, Camisa Seleção Brasileira ,1,"100,28",Bruno Lima ,norte,Loja Outlet
+1193,20/09/2024,garrafa térmica squeeze,1,"38,60",Carla,nordeste,Loja Online
+1146,2024-04-22,Short Bermuda Dry-Fit,5,"R$ 196,42",João Pedro,nordeste,Loja Centro
+,,,,,,,
+1391,2024-01-06,Garrafa Térmica Squeeze G,2,"42,89",Diego Alves,nordeste,Loja Centro
+1277,26/10/24,Tênis Corrida Mizuno,1,319.63,Fernanda,Sudeste,Loja Outlet
+1320,21/10/2024,Bola Futebol Society,2,"R$ 272,36",Bruno Lima , Sul ,Loja Outlet
+1215,2024-09-15,Short Bermuda Dry-Fit M,4,"196,42",Diego,Sudeste,Loja Shopping Center
+1134,18/03/24,SHORT BERMUDA DRY-FIT,2,"R$ 176,78",Bruno Lima,centro-oeste,Loja Outlet
+1418,2024-02-13, Short Bermuda Dry-Fit ,1,"R$ 176,78",DIEGO ALVES,Norte,Loja Online
+1065,2024-03-15,Camisa Palmeiras M,4,43.69,ana souza,nordeste,Loja Outlet
+1401,11-Nov-24,Meião Esportivo,2,52.11, Ana Souza,CENTRO-OESTE,Loja Outlet
+1283,13/11/24,Caneleira Profissional M,2,"144,51",Fernanda Costa,sudeste,Loja Centro
+1203,19-Jul-24,Garrafa Térmica Squeeze,1,"R$ 42,89",João Pedro,NORDESTE,Loja Centro
+1407,12.03.2024,Garrafa Térmica Squeeze G,1,42.89, Carla Mendes,Sudeste,Loja Centro
+1068,12/01/24,Camisa Internacional G,2,"79,89",fernanda costa,norte,Loja Online
+1095,07-Jul-24,BOLA FUTEBOL SOCIETY,1,"299,60", Carla Mendes,Centro-Oeste,Loja Shopping Center
+1013,12/03/24,Meião Esportivo M,1,"R$ 52,11",ANA SOUZA,SUL,Loja Outlet
+1284,29.03.2024, Camisa Seleção Brasileira ,1,"100,28", Carla Mendes,Sul,Loja Centro
+1058,18.11.2024,luva de goleiro,2,342.06, Carla Mendes,,Loja Shopping Center
+1238,04/10/24,Chuteira Nike Mercurial,2,"198,88",Bruno,Sudeste,Loja Online
+1162,2024-06-29,Boné Time Brasileirão M,1,"R$ 451,64", Carla Mendes, Centro-Oeste ,Loja Centro
+1143,2024-10-17,Boné Time Brasileirão,1,"R$ 348,99",JOÃO PEDRO,sudeste,Loja Online
+1403,06/09/2024,Bola Futebol Society G,1,"245,12",Bruno,nordeste,Loja Outlet
+1186,29/06/24,Bola Futebol Penalty G,1,"154,52", Fernanda Costa,Norte,Loja Online
+1163,2024-03-11,Camisa Palmeiras,1,56.54,,Sudeste,Loja Outlet
+1119,2024-06-02,Bola Futebol Penalty M,1,140.47,João Pedro,Norte,Loja Online
+1176,2024-06-09,garrafa térmica squeeze,4,"42,89",carla mendes,NORTE,Loja Outlet
+1313,28-Jul-24,BERMUDA ESPORTIVA,1,"R$ 141,30",Fernanda Costa,CENTRO-OESTE,Loja Online
+1399,20/05/2024,Bola Futebol Penalty,1,"119,40",João Pedro,NORDESTE,Loja Centro
+1199,2024-02-09,CANELEIRA PROFISSIONAL,2,"R$ 111,66",,SUDESTE,Loja Outlet
+1237,08/07/24,Agasalho Treino,3,"R$ 361,04",, Norte ,Loja Centro
+,,,,,,,
+1063,28/11/2024,CAMISA VASCO,3,"R$ 416,55",diego alves,Nordeste,Loja Outlet
+1060,02-Jan-24,garrafa térmica squeeze,2,"R$ 36,46",ana souza,centro-oeste,Loja Online
+1087,21.03.2024,Chuteira Adidas Predator M,1,"58,97",Fernanda Costa ,Sudeste,Loja Centro
+1307,09.03.2024,Caneleira Profissional,1,111.66,Bruno Lima,Sul,Loja Centro
+1101,2024-03-19,Camisa Seleção Brasileira,1,122.56,joão pedro,NORTE,Loja Outlet
+1240,2024-11-17,camisa grêmio,2,"450,30", Ana Souza, Sudeste ,Loja Centro
+1191,2024-02-22,Luva de Goleiro,2,"R$ 310,96", João Pedro,NORTE,Loja Outlet
+1415,03-Aug-24,Camisa Flamengo,2,334.04,,Centro Oeste,Loja Online
+1177,2024-10-15,Camisa Internacional M,1,"87,88",diego alves,centro-oeste,Loja Shopping Center
+1026,25.02.2024,CAMISA FLAMENGO,4,"334,04",CARLA MENDES,norte,Loja Shopping Center
+1084,03-Nov-24,Camisa São Paulo G,3,142.58,Carla,Centro-Oeste,Loja Online
+1080,07/02/2024,Tênis Corrida Mizuno G,3,246.98,Diego, Sudeste ,Loja Outlet
+1259,2024-08-10,Camiseta Palmeiras,3,"46,26", Carla Mendes,Norte,Loja Online
+1324,2024-04-30,chuteira nike mercurial,2,233.98,João, Sul ,Loja Centro
+1282,27.11.2024,Camisa Grêmio,4,"450,30", Carla Mendes,Sudeste,Loja Centro
+1064,16/02/24,Tênis Corrida Mizuno,1,"319,63",Fernanda Costa,sul,Loja Centro
+1140,27-May-24,luva de goleiro,2,"342,06",Diego, Centro-Oeste ,Loja Centro
+1262,04/12/2024,tênis corrida mizuno,2,246.98,Bruno,sudeste,Loja Outlet
+1110,09/03/2024,Camisa Corinthians M,3,"141,45",Bruno,Sudeste,Loja Online
+1178,20-Nov-24,Tênis Corrida Asics,2,338.85,João Pedro, Centro-Oeste ,Loja Centro
+1079,2024-09-14,Tênis Corrida Mizuno,1,"319,63",Carla Mendes ,Norte,Loja Outlet
+1253,2024-10-13,luva de goleiro,3,"342,06",Carla Mendes,CENTRO-OESTE,Loja Online
+1067,23/11/24,luva de goleiro,2,"279,86", Ana Souza,Nordeste,Loja Online
+1015,22.12.2024,Meião Esportivo,5,52.11,diego alves,centro-oeste,Loja Outlet
+1302,16.10.2024,garrafa térmica squeeze,1,"R$ 47,18",FERNANDA COSTA,CENTRO-OESTE,Loja Centro
+1169,28/01/2024,Agasalho Treino M,4,"361,04",Diego,Sul,Loja Online
+1261,04/12/2024,Boné Time Brasileirão,1,"410,58",Fernanda Costa ,Sudeste,Loja Shopping Center
+1149,10/05/2024,Tênis Corrida Asics,2,"288,02",,Nordeste,Loja Outlet
+1107,2024-01-25,Camisa Seleção Brasileira G,4,"R$ 122,56",ana souza,sul,Loja Shopping Center
+1089,10-May-24,Garrafa Térmica Squeeze,3,"42,89",ANA SOUZA,NORDESTE,Loja Centro
+1377,28/07/2024,Tênis Corrida Mizuno,2,261.51,BRUNO LIMA,SUL,Loja Shopping Center
+1208,16-Jan-24,Camiseta Seleção Brasileira,4,"111,42",bruno lima,sul,Loja Shopping Center
+1366,2024-11-15,Garrafa Térmica Squeeze,5,42.89,CARLA MENDES,Nordeste,Loja Outlet
+1281,2024-05-16,Camisa São Paulo,2,"156,84",DIEGO ALVES,Sudeste,Loja Centro
+1390,09/04/2024,Camisa Seleçao Brasileira,1,"R$ 111,42",DIEGO ALVES,NORTE,Loja Online
+1405,21.12.2024,luva de goleiro,4,"279,86", Diego Alves,sudeste,Loja Centro
+1370,2024-04-05,MEIÃO ESPORTIVO,5,"44,29",,Norte,Loja Shopping Center
+1105,11-Feb-24,Caneleira Profissional,2,"131,37",Diego Alves ,NORDESTE,Loja Outlet
+1297,05/09/24,CAMISA INTERNACIONAL,3,"67,91",Carla Mendes ,SUDESTE,Loja Online
+1229,24.04.2024,Tênis Corrida Mizuno M,1,"261,51",Bruno,Norte,Loja Online
+1069,2024-12-13, Chuteira Adidas Predator ,1,"58,97",fernanda costa,SUL,Loja Online
+1214,2024-01-31,CHUTEIRA ADIDAS PREDATOR,2,"53,61",Bruno Lima , Sul ,Loja Outlet
+1318,11/12/2024,Camisa Grêmio,3,"450,30",Fernanda Costa ,NORTE,Loja Centro
+1032,2024-10-12, Caneleira Profissional ,1,118.23,Bruno, Norte ,Loja Shopping Center
+1121,18/08/24,Caneleira Profissional G,3,131.37,Fernanda Costa,sul,Loja Shopping Center
+1245,29.12.2024,Bermuda Esportiva M,4,"141,30",Ana Souza ,Sul,Loja Online
+1072,22-Nov-24,Camisa Sao Paulo,1,156.84,Carla,Nordeste,Loja Outlet
+1022,08.07.2024,Luva de Goleiro,1,279.86,,Sul,Loja Shopping Center
+1045,17/08/2024,Camisa Internacional G,1,79.89,Diego Alves , Sul ,Loja Outlet
+1357,30/07/24,Luva de Goleiro,3,264.32,carla mendes,norte,Loja Online
+1291,18/08/24,CHUTEIRA NIKE MERCURIAL,,"233,98",FERNANDA COSTA, Nordeste ,Loja Outlet
+1147,26/09/24,Luva de Goleiro,3,"310,96",Fernanda,SUL,Loja Shopping Center
+1124,19/10/24,CAMISA FLAMENGO,1,"300,64",Ana,norte,Loja Centro
+1363,23/04/24,Agasalho Treino G,2,324.94,Diego Alves ,Norte,Loja Shopping Center
+1040,24-Mar-24,Tênis Corrida Asics,1,"288,02",CARLA MENDES,Norte,Loja Shopping Center
+1096,2024-09-13,Luva de Goleiro,1,"279,86",Diego Alves ,sul,Loja Outlet
+1025,22/05/2024, Chuteira Adidas Predator ,2,"R$ 53,61",Bruno Lima, Sul ,Loja Online
+1396,2024-09-13, Camisa Palmeiras ,2,"R$ 51,40", Ana Souza,Norte,Loja Outlet
+1416,20/10/2024,Camiseta Seleção Brasileira,2,"122,56",Ana,Centro Oeste,Loja Centro
+1271,2024-09-10,Garrafa Térmica Squeeze,1,"38,60",Ana,Sul,Loja Outlet
+1209,2024-07-07,Tênis Corrida Mizuno,2,"290,57",fernanda costa, Sudeste ,Loja Centro
+1387,21.08.2024,camisa fluminense,3,"351,18",joão pedro,Norte,Loja Centro
+1042,04/07/24,Bermuda Esportiva M,1,127.17, Ana Souza,Centro-Oeste,Loja Outlet
+1398,12.01.2024,Camisa Corinthians M,2,183.05,Diego Alves,Sudeste,Loja Online
+1359,18/02/2024, Camisa Internacional ,5,79.89,Carla Mendes,Nordeste,Loja Centro
+1197,21/03/24,Bola Futebol Penalty,5,"R$ 140,47",Ana Souza,Centro-Oeste,Loja Shopping Center
+1106,17.08.2024,camisa vasco,1,"378,68",ana souza,CENTRO-OESTE,Loja Outlet
+1216,2024-05-19,Chuteira Nike Mercurial M,1,233.98,Diego,nordeste,Loja Outlet
+1070,2024-04-12,camisa seleção brasileira,3,"94,71",ana souza, Nordeste ,Loja Centro
+1222,27-Nov-24,Chuteira Nike Mercurial,5,"R$ 210,58",Bruno Lima,Norte,Loja Centro
+1217,16/04/24,Camisa Fluminense,2,"316,06",diego alves,Centro-Oeste,Loja Online
+1085,14.10.2024,Bola Futebol Society M,1,"231,51",,NORTE,Loja Outlet
+1204,06.07.2024,Camisa Corinthians,1,"149,77",, Sul ,Loja Outlet
+,,,,,,,
+1408,10-Aug-24, Tênis Corrida Asics ,1,"288,02",Bruno,nordeste,Loja Online
+1233,11-Jan-24, Boné Time Brasileirão ,2,"410,58", Bruno Lima,Sudeste,Loja Online
+1404,11/10/2024,bola futebol society,2,"R$ 231,51",Fernanda Costa,Centro-Oeste,Loja Online
+1409,26-Feb-24,Chuteira Adidas Predator,1,"R$ 53,61",Carla Mendes ,Sudeste,Loja Online
+1242,2024-01-20,Chuteira Adidas Predator M,2,48.25,diego alves, Centro-Oeste ,Loja Outlet
+1147,26/09/24,Luva de Goleiro,3,"310,96",Fernanda,SUL,Loja Shopping Center
+1175,21-Jul-24, Garrafa Térmica Squeeze ,4,"R$ 42,89",Diego Alves,sul,Loja Shopping Center
+1234,2024-08-08,CAMISA CORINTHIANS,4,"166,41",Carla Mendes , Norte ,Loja Shopping Center
+1083,19-Feb-24,Camisa Vasco,1,"321,88",Ana Souza,Sudeste,Loja Outlet
+1332,22.10.2024,Chuteira Nike Mercurial M,1,"233,98", Ana Souza,sudeste,Loja Centro
+1227,14/06/2024,Camisa Flamengo M,1,334.04,FERNANDA COSTA,sul,Loja Centro
+1360,09-Feb-24,Camiseta Internacional,5,"R$ 79,89",Carla Mendes, Norte ,Loja Centro
+1109,18/07/24,Camisa Corinthians M,,"R$ 183,05",Ana Souza ,Norte,Loja Shopping Center
+1051,29.03.2024, Camisa Grêmio ,1,"450,30",Carla,SUDESTE,Loja Centro
+1342,30/09/2024,Chuteira Nike Mercurial,1,"233,98",bruno lima,SUDESTE,Loja Shopping Center
+1361,29-Jan-24,Camiseta São Paulo,3,"R$ 128,32",Ana, Norte ,Loja Shopping Center
+1157,04-May-24,Camisa Palmeiras G,2,"51,40",Diego Alves ,NORTE,Loja Outlet
+1152,2024-05-21,Caneleira Profissional G,1,"R$ 131,37",BRUNO LIMA,centro-oeste,Loja Centro
+1265,15/05/24,CAMISA SELEÇÃO BRASILEIRA,1,111.42,Carla, Sul ,Loja Online
+1378,06/05/24,camisa corinthians,4,"R$ 166,41",Diego Alves ,centro-oeste,Loja Outlet
+1027,05/07/24, Mochila Esportiva ,1,"453,46",Carla Mendes,Centro-Oeste,Loja Centro
+1310,10.11.2024,Camisa Grêmio G,1,"382,75",Bruno Lima ,SUDESTE,Loja Outlet
+1151,2024-09-27,agasalho treino,2,"361,04",joão pedro,SUDESTE,Loja Outlet
+1264,02/01/2024,Luva de Goleiro,1,"R$ 310,96",Bruno,centro-oeste,Loja Centro
+1156,02/10/24,Bola Futebol Penalty G,2,"140,47",DIEGO ALVES, Nordeste ,Loja Centro
+1116,13/12/24,Bola Futebol Society M,3,"R$ 272,36",Diego Alves ,Sudeste,Loja Centro
+1024,22/03/2024,camisa flamengo,4,"R$ 334,04",joão pedro,CENTRO-OESTE,Loja Online
+1256,03/01/24,Camisa Corinthians,2,166.41,Carla,sul,Loja Shopping Center
+1258,21-Dec-24, Bermuda Esportiva ,2,"141,30",Ana,SUDESTE,Loja Centro
+,,,,,,,
+1369,04-Dec-24,Short Bermuda Dry-Fit,3,"196,42", Ana Souza,Sudeste,Loja Outlet
+1003,2024-01-29,Camisa Fluminense,1,"R$ 351,18",diego alves,NORTE,Loja Online
+1033,22/03/24,Garrafa Térmica Squeeze M,5,42.89,Diego Alves , Norte ,Loja Outlet
+1166,17/02/24, Tênis Corrida Asics ,4,"R$ 304,97",JOÃO PEDRO,,Loja Shopping Center
+1388,03-Mar-24,Camisa Corinthians G,3,"R$ 141,45",Fernanda Costa, Nordeste ,Loja Centro
+1288,16-Jul-24, Garrafa Térmica Squeeze ,2,"42,89",Ana, Nordeste ,Loja Shopping Center
+1011,22/05/24, Camisa Palmeiras ,2,43.69,Ana Souza,Nordeste,Loja Centro
+1158,2024-02-07, Camisa Seleção Brasileira ,2,100.28,ana souza,Centro Oeste,Loja Shopping Center
+1120,2024-10-09,Tênis Corrida Mizuno,1,"290,57",Carla Mendes ,norte,Loja Outlet
+1243,09/07/2024,Meião Esportivo M,3,"52,11",JOÃO PEDRO, Sudeste ,Loja Online
+1231,2024-05-15,bola futebol penalty,2,"154,52",João Pedro, Nordeste ,Loja Shopping Center
+1125,13/08/24,Agasalho Treino G,5,324.94, Carla Mendes,Sudeste,Loja Centro
+1315,2024-08-16,Mochila Esportiva M,1,"R$ 412,24", João Pedro,Sul,Loja Centro
+1188,05-Apr-24,luva de goleiro,5,"264,32",FERNANDA COSTA,centro-oeste,Loja Centro
+1242,2024-01-20,Chuteira Adidas Predator M,2,48.25,diego alves, Centro-Oeste ,Loja Outlet
+1260,28.10.2024,Meião Esportivo,1,"52,11",BRUNO LIMA,SUL,Loja Shopping Center
+1059,17-Sep-24,CAMISA INTERNACIONAL,4,"R$ 71,90",Diego Alves, Sul ,Loja Online
+1275,25/03/24,Boné Time Brasileirão,1,"R$ 451,64",Fernanda Costa ,Nordeste,Loja Shopping Center
+1189,31/07/24,Camisa Grêmio G,5,"450,30",Fernanda Costa , Centro-Oeste ,Loja Outlet
+1354,03.07.2024, Camisa Flamengo ,4,"334,04", João Pedro, Sudeste ,Loja Shopping Center
+1137,20.10.2024,Tênis Corrida Mizuno M,4,"261,51",Fernanda,nordeste,Loja Shopping Center
+1296,08/05/2024,Luva de Goleiro,2,"R$ 342,06",João Pedro ,sudeste,Loja Shopping Center
+1222,27-Nov-24,Chuteira Nike Mercurial,5,"R$ 210,58",Bruno Lima,Norte,Loja Centro
+1173,13.02.2024,Garrafa Térmica Squeeze M,2,36.46,Diego Alves, Nordeste ,Loja Outlet
+1117,05/04/24,Meião Esportivo M,4,"44,29",joão pedro,Sul,Loja Shopping Center
+1133,27.01.2024,Camisa Flamengo,5,"R$ 334,04",Carla,Norte,Loja Centro
+1285,19-Mar-24,Mochila Esportiva,1,"453,46",ana souza,CENTRO-OESTE,Loja Shopping Center
+1167,2024-04-27,Tênis Corrida Mizuno G,5,"290,57",joão pedro,Norte,Loja Shopping Center
+1295,2024-04-04, Bola Futebol Society ,2,"272,36",Diego,NORTE,Loja Centro
+1267,23/07/24,CAMISA SELEÇÃO BRASILEIRA,2,"R$ 100,28",carla mendes,Sul,Loja Outlet
+1339,30/09/2024,Camisa Flamengo,5,"300,64",,nordeste,Loja Outlet
+1287,14/10/2024,Bola Futebol Penalty M,1,"154,52",carla mendes,Sul,Loja Outlet
+1010,02-Feb-24,Bola Futebol Society,1,231.51, Fernanda Costa,,Loja Centro
+1184,21/07/2024, Tênis Corrida Asics ,2,"R$ 304,97",Diego,SUL,Loja Outlet
+1330,03/08/24,camisa grêmio,1,"495,33",JOÃO PEDRO,Centro-Oeste,Loja Centro
+1241,27/02/24,Chuteira Nike Mercurial,1,"233,98",Ana,Norte,Loja Outlet
+1014,2024-05-01,LUVA DE GOLEIRO,4,"R$ 279,86",Ana,Norte,Loja Shopping Center
+1086,2024-02-05,Bola Futebol Penalty M,1,140.47,ANA SOUZA,Sul,Loja Outlet
+1311,08/07/2024,Luva de Goleiro,4,"R$ 310,96",João,Centro Oeste,Loja Outlet
+1397,23/08/24,CAMISA VASCO,1,"378,68",Fernanda,SUL,Loja Shopping Center
+1322,04/02/24,Tênis Corrida Asics,2,372.74,Fernanda Costa,Centro-Oeste,Loja Online
+1207,2024-12-28,Garrafa Térmica Squeeze,1,"R$ 42,89",Carla,Sul,Loja Shopping Center
+1213,04-Oct-24, Luva de Goleiro ,1,"310,96",Bruno Lima,Centro-Oeste,Loja Centro
+1247,2024-06-25,Bola Futebol Society,2,"299,60", Fernanda Costa, Sul ,Loja Online
+1305,2024-09-13,Bermuda Esportiva G,5,141.30,carla mendes, Centro-Oeste ,Loja Shopping Center
+1127,2024-04-07,Meião Esportivo G,,"R$ 44,29",BRUNO LIMA,Nordeste,Loja Online
+1078,2024-01-09,camisa flamengo,2,334.04,ana souza,Sul,Loja Online
+1164,07/01/2024,Garrafa Termica Squeeze,2,"36,46",,Sudeste,Loja Outlet
+1361,29-Jan-24,Camiseta São Paulo,3,"R$ 128,32",Ana, Norte ,Loja Shopping Center
+1202,28/06/24,CAMISA GRÊMIO,3,450.30,ANA SOUZA,Sudeste,Loja Outlet
+1016,14.09.2024,Luva de Goleiro,1,"310,96",joão pedro,Sudeste,Loja Outlet
+1392,2024-03-30,CAMISA FLAMENGO,3,"R$ 334,04",joão pedro, Nordeste ,Loja Shopping Center
+1250,01/06/2024,MEIÃO ESPORTIVO,5,"52,11",Ana Souza ,Nordeste,Loja Online
+1122,2024-06-14,CAMISA PALMEIRAS,3,"43,69",FERNANDA COSTA,NORDESTE,Loja Centro
+1381,26.10.2024,Bone Time Brasileirao,1,"R$ 369,52",Ana,,Loja Centro
+1413,18/01/2024, Camisa Seleção Brasileira ,5,"122,56",João Pedro , Nordeste ,Loja Online
+1018,07/02/2024,Camiseta Internacional,5,"67,91",DIEGO ALVES, Nordeste ,Loja Online
+1071,2024-03-13,Tênis Corrida Mizuno,4,"246,98",joão pedro, Sudeste ,Loja Shopping Center
+1270,2024-08-09, Camisa Seleção Brasileira ,5,"R$ 111,42",joão pedro,Norte,Loja Shopping Center
+1224,2024-10-26,Camisa Internacional,1,79.89,Carla Mendes,Centro Oeste,Loja Online
+1043,05/05/2024,Luva de Goleiro,2,279.86, Diego Alves,norte,Loja Online
+1249,11-Jul-24, Camisa Flamengo ,5,334.04,Carla Mendes ,nordeste,Loja Outlet
+1286,2024-09-15,Short Bermuda Dry-Fit M,4,"R$ 166,96",FERNANDA COSTA,Sul,Loja Shopping Center
+1321,21/12/24,BOLA FUTEBOL PENALTY,4,"R$ 119,40",fernanda costa,Norte,Loja Online
+1374,12.10.2024,caneleira profissional,,"131,37",João Pedro ,sul,Loja Shopping Center
+1153,02/11/2024, Camisa Internacional ,2,"87,88",Ana Souza,Norte,Loja Outlet
+1097,05-Jul-24,camisa corinthians,2,"R$ 149,77",ANA SOUZA, Centro-Oeste ,Loja Centro
+1290,2024-12-17,Agasalho Treino G,1,"324,94",, Norte ,Loja Shopping Center
+1020,24.05.2024,CHUTEIRA NIKE MERCURIAL,2,"257,38",Ana,NORTE,Loja Online
+1090,22/01/24, Luva de Goleiro ,1,"279,86",Fernanda Costa ,Nordeste,Loja Outlet
+1103,12.04.2024,Tênis Corrida Asics,1,"338,85",Diego Alves , Norte ,Loja Centro
+1148,2024-12-14,mochila esportiva,5,"R$ 412,24",bruno lima, Norte ,Loja Shopping Center
+1235,26/01/24,Short Bermuda Dry-Fit,5,"196,42",joão pedro,NORDESTE,Loja Shopping Center
+1041,22-Feb-24,Meião Esportivo G,1,"44,29",JOÃO PEDRO,Sudeste,Loja Centro
+1174,03-Aug-24,Chuteira Nike Mercurial,5,"233,98",Bruno Lima, Sul ,Loja Online
+1273,16.02.2024,CAMISA FLAMENGO,2,283.93, Diego Alves,Sudeste,Loja Shopping Center
+1187,2024-12-21,BOLA FUTEBOL PENALTY,4,126.42,bruno lima,SUDESTE,Loja Online
+1046,29/06/24,Bola Futebol Society,2,"272,36",Fernanda Costa , Nordeste ,Loja Online
+1028,2024-10-10,Chuteira Adidas Predator,2,"R$ 48,25", João Pedro, Nordeste ,Loja Online
+1205,04/08/24,Camisa Palmeiras,1,56.54,Diego Alves ,Nordeste,Loja Outlet
+1155,16/11/24,Caneleira Profissional,5,"131,37",Carla Mendes,Norte,Loja Centro
+1340,2024-07-21,Camisa Internacional,1,"R$ 87,88",fernanda costa, Sul ,Loja Outlet
+1183,2024-12-12,Chuteira Adidas Predator,2,45.57,João Pedro,sudeste,Loja Shopping Center
+1274,02-Dec-24, Camisa Palmeiras ,5,"51,40",diego alves,Norte,Loja Outlet
+1372,14/02/24,Camiseta Flamengo,2,300.64,BRUNO LIMA, Nordeste ,Loja Centro
+1246,20-May-24, Camisa Palmeiras ,5,"R$ 43,69", Ana Souza,sudeste,Loja Centro
+1196,10-Sep-24,BOLA FUTEBOL SOCIETY,3,"272,36", Fernanda Costa, Sul ,Loja Centro
+1300,24.10.2024,BONÉ TIME BRASILEIRÃO,4,348.99,João Pedro,Sudeste,Loja Shopping Center
+1115,2024-09-19,Caneleira Profissional,1,"R$ 131,37",, Sudeste ,Loja Online
+1325,04/10/2024,CAMISA VASCO,5,"378,68",Ana Souza,Centro Oeste,Loja Shopping Center
+1334,18/05/24,Camisa Internacional M,,"R$ 87,88",Carla,nordeste,Loja Outlet
+1206,07/06/24,camisa grêmio,2,450.30,fernanda costa,Centro Oeste,Loja Shopping Center
+1223,02.09.2024, Camisa Grêmio ,5,"450,30",João Pedro , Sudeste ,Loja Online
+1244,01.08.2024, Camisa São Paulo ,1,"R$ 142,58",bruno lima,centro-oeste,Loja Online
+1328,09-Nov-24,chuteira nike mercurial,3,"R$ 233,98",fernanda costa,sul,Loja Outlet
+1263,2024-11-07,GARRAFA TÉRMICA SQUEEZE,2,36.46,Carla Mendes, Sudeste ,Loja Centro
+1001,26/12/2024,Luva de Goleiro,1,342.06,João Pedro ,Nordeste,Loja Centro
+1294,22/01/2024,Camisa Seleção Brasileira M,4,"94,71",Ana Souza ,NORTE,Loja Shopping Center
+1417,08/01/2024,Chuteira Nike Mercurial,1,198.88,Bruno Lima ,nordeste,Loja Online
+1168,30/12/24,Luva de Goleiro,1,310.96,bruno lima,SUDESTE,Loja Centro
+1077,01/11/2024, Camisa Corinthians ,2,166.41,FERNANDA COSTA,sul,Loja Centro
+1349,05/09/24,Short Bermuda Dry-Fit G,2,"R$ 166,96",Carla,sul,Loja Shopping Center
+1199,2024-02-09,CANELEIRA PROFISSIONAL,2,"R$ 111,66",,SUDESTE,Loja Outlet
+1019,05-Oct-24,BOLA FUTEBOL SOCIETY,1,"299,60",bruno lima,NORDESTE,Loja Outlet
+1000,05-Nov-24,BOLA FUTEBOL PENALTY,1,"R$ 154,52", Ana Souza,sudeste,Loja Online
+1076,24.11.2024,Meião Esportivo,1,"52,11",Bruno Lima,Centro-Oeste,Loja Centro
+1254,01/03/24,Caneleira Profissional M,1,"144,51",carla mendes,norte,Loja Outlet
+1009,15.05.2024,TÊNIS CORRIDA MIZUNO,4,290.57,FERNANDA COSTA, Sul ,Loja Centro
+1389,07-Nov-24,CAMISA SÃO PAULO,2,"121,19",Diego,norte,Loja Outlet
+1384,13/04/2024,Chuteira Adidas Predator,2,"R$ 53,61",Carla,Sul,Loja Centro
+1292,14/09/2024,CAMISA SELEÇÃO BRASILEIRA,2,"122,56",João Pedro ,Sudeste,Loja Online
+1036,02.08.2024,Mochila Esportiva G,2,371.02,Diego Alves,nordeste,Loja Outlet
+1414,05/05/24,Camiseta Vasco,1,"416,55",Diego Alves ,Sudeste,Loja Shopping Center
+1382,04/03/2024, Short Bermuda Dry-Fit ,1,"R$ 216,06",Diego Alves,nordeste,Loja Centro
+1052,2024-12-17, Camisa Palmeiras ,2,56.54,Carla, Nordeste ,Loja Shopping Center
+1355,28.04.2024,Camiseta Corinthians,4,166.41,ANA SOUZA,Norte,Loja Shopping Center
+1226,30/03/24,mochila esportiva,1,"412,24",FERNANDA COSTA,Centro Oeste,Loja Online
+1054,05-Nov-24,Tênis Corrida Mizuno,1,290.57,Ana Souza , Sudeste ,Loja Online
+1314,09.10.2024,Caneleira Profissional M,5,"131,37",fernanda costa,CENTRO-OESTE,Loja Outlet
+1411,06/09/24,chuteira adidas predator,1,53.61,Bruno Lima,Sudeste,Loja Centro
+1220,08/02/2024,Camisa Grêmio G,1,"R$ 450,30",Carla,Sudeste,Loja Online
+1276,24.01.2024, Meião Esportivo ,1,"R$ 46,90",DIEGO ALVES,Nordeste,Loja Outlet
+1073,2024-02-29, Bola Futebol Penalty ,1,"140,47",João Pedro,centro-oeste,Loja Outlet
+1055,2024-05-22,Camiseta Flamengo,4,"R$ 367,44",Fernanda Costa, Sul ,Loja Outlet
+1134,18/03/24,SHORT BERMUDA DRY-FIT,2,"R$ 176,78",Bruno Lima,centro-oeste,Loja Outlet
+1365,16.12.2024, Garrafa Térmica Squeeze ,1,"R$ 42,89",Bruno Lima, Nordeste ,Loja Online
+1201,13-Aug-24,camisa vasco,2,416.55,Ana Souza ,Norte,Loja Centro
+1074,2024-10-27,luva de goleiro,4,"342,06", Diego Alves,Nordeste,Loja Outlet
+1102,2024-09-30, Camisa Seleção Brasileira ,2,100.28,Diego Alves , Nordeste ,Loja Centro
+1251,03/11/24,Chuteira Nike Mercurial,3,257.38,BRUNO LIMA,NORTE,Loja Shopping Center
+1035,31/07/2024, Short Bermuda Dry-Fit ,2,"R$ 176,78", Ana Souza,centro-oeste,Loja Outlet
+1225,2024-03-31,Camisa Seleção Brasileira,3,"122,56",Bruno Lima ,,Loja Centro
+1091,28.03.2024,Short Bermuda Dry-Fit G,5,"216,06",Carla Mendes,Centro-Oeste,Loja Online
+1135,2024-06-09, Camisa Vasco ,5,"321,88",fernanda costa,Centro Oeste,Loja Outlet
+1132,07-Jul-24,Bola Futebol Penalty,1,"126,42",João Pedro , Nordeste ,Loja Shopping Center
+1030,2024-02-17,camisa seleção brasileira,2,111.42,João Pedro,Nordeste,Loja Online
+1170,26-Apr-24,Meião Esportivo M,4,46.90,Ana, Nordeste ,Loja Outlet
+1198,12-Feb-24,Boné Time Brasileirão,1,"R$ 410,58",bruno lima,sudeste,Loja Online
+,,,,,,,
+1031,10/09/24,GARRAFA TÉRMICA SQUEEZE,2,"42,89", Diego Alves,NORTE,Loja Outlet
+1351,2024-11-13,Bermuda Esportiva G,3,"155,43",JOÃO PEDRO,Sudeste,Loja Online
+1037,20.07.2024,Agasalho Treino G,1,"R$ 361,04",JOÃO PEDRO,CENTRO-OESTE,Loja Shopping Center
+1082,20/08/24, Camisa Seleção Brasileira ,4,"122,56", Diego Alves, Sul ,Loja Online
+1131,16.06.2024,Bola Futebol Penalty,3,"R$ 140,47", Fernanda Costa,Sul,Loja Centro
+1165,13.11.2024,CAMISA FLUMINENSE,2,"351,18",Ana Souza ,SUL,Loja Centro
+1341,2024-07-30, Boné Time Brasileirão ,1,410.58,Fernanda Costa ,nordeste,Loja Online
+1218,01/07/24,Chuteira Adidas Predator,1,"58,97",bruno lima,Sul,Loja Centro
+1141,2024-09-10,Luva de Goleiro,2,"310,96", Bruno Lima,Sul,Loja Outlet
+1232,09/09/24,Camisa Palmeiras G,3,"R$ 43,69",Diego,CENTRO-OESTE,Loja Outlet
+1327,18/12/2024,meião esportivo,1,57.32,Diego Alves, Norte ,Loja Online
+1038,22/05/24,Meião Esportivo M,2,"R$ 52,11",,nordeste,Loja Outlet
+1338,26/06/24,Mochila Esportiva,2,"R$ 412,24",João, Norte ,Loja Online
+1239,21/07/2024,Luva de Goleiro,1,"R$ 310,96",FERNANDA COSTA,centro-oeste,Loja Shopping Center
+1150,10/03/24,CAMISA PALMEIRAS,3,"R$ 46,26",Diego Alves, Nordeste ,Loja Centro
+1129,24/07/2024,Camiseta Vasco,2,"378,68",joão pedro,centro-oeste,Loja Shopping Center
+1386,2024-01-19, Luva de Goleiro ,1,"342,06",ANA SOUZA,Sul,Loja Online
+1356,25/12/24,Camisa Fluminense G,1,351.18,João Pedro,norte,Loja Outlet
+1056,05/12/24,BOLA FUTEBOL PENALTY,1,"126,42",bruno lima, Centro-Oeste ,Loja Online
+1094,18/03/24,Mochila Esportiva,1,"R$ 371,02",João Pedro ,norte,Loja Online
+1289,02.10.2024, Chuteira Adidas Predator ,1,"58,97",Carla Mendes ,Sudeste,Loja Centro
+1331,10/05/24,Mochila Esportiva,1,"371,02",Diego Alves,Sul,Loja Centro
+1376,10/02/24, Mochila Esportiva ,1,"R$ 350,40",FERNANDA COSTA,Sul,Loja Online
+1192,25.03.2024, Camisa São Paulo ,1,142.58,Bruno,norte,Loja Outlet
+1066,22-Nov-24, Garrafa Térmica Squeeze ,5,"42,89",Diego Alves ,SUL,Loja Outlet
+1309,17-Dec-24,mochila esportiva,5,"350,40",Fernanda,norte,Loja Centro
+1044,30-Jun-24,Bola Futebol Penalty,3,"140,47",diego alves, Sul ,Loja Centro
+1061,29/04/24,Bola Futebol Penalty G,1,"R$ 140,47",diego alves,SUL,Loja Outlet
+1362,25/09/2024,Camisa Seleção Brasileira,3,94.71,João,Centro-Oeste,Loja Online
+1062,21/02/24,agasalho treino,1,"R$ 306,88",,Sul,Loja Online
+1006,24-Nov-24,Tênis Corrida Asics,1,"R$ 338,85",Fernanda Costa,,Loja Online
+1306,18/06/2024,camisa fluminense,5,"R$ 386,30",Carla Mendes ,SUDESTE,Loja Outlet
+1111,19-Jan-24,Tênis Corrida Asics,2,338.85,JOÃO PEDRO,Sul,Loja Outlet
+1336,2024-06-07,CAMISA CORINTHIANS,2,"183,05",Carla Mendes ,Sul,Loja Outlet
+1304,11/07/24,Camiseta São Paulo,3,"121,19",joão pedro,Norte,Loja Centro
+1029,08.08.2024,Chuteira Adidas Predator G,3,"R$ 48,25",Fernanda Costa,nordeste,Loja Centro
+1047,2024-02-21,camisa seleção brasileira,2,"111,42",BRUNO LIMA,,Loja Online
+1317,30/03/24,Camisa Seleção Brasileira G,5,111.42,Diego Alves ,norte,Loja Shopping Center
+1012,30/06/24,Camisa Internacional,4,"71,90",DIEGO ALVES,Sudeste,Loja Outlet
+1017,13/11/2024,Camisa Internacional G,4,"87,88",Ana Souza ,Sul,Loja Shopping Center
+1098,25-May-24,Boné Time Brasileirão M,1,"410,58",ana souza,Sudeste,Loja Outlet
+1128,26-Jan-24,Meiao Esportivo,5,"R$ 44,29",BRUNO LIMA,,Loja Shopping Center
+1145,07/12/2024,Camisa Seleção Brasileira,5,111.42,Carla,NORDESTE,Loja Shopping Center
+1371,30-Jun-24,Tênis Corrida Mizuno G,2,"246,98",JOÃO PEDRO,sudeste,Loja Online
+1112,25-Jan-24,Meiao Esportivo,2,"52,11",Carla Mendes,sul,Loja Online
+1179,05/10/2024,Garrafa Termica Squeeze,3,"47,18", Fernanda Costa,Norte,Loja Outlet
+1228,21-Jun-24,Camisa Corinthians M,3,166.41,João,Centro Oeste,Loja Shopping Center
+1350,2024-09-28,Camisa Seleçao Brasileira,5,"111,42",Carla Mendes ,NORTE,Loja Shopping Center
+1053,12/08/2024,chuteira nike mercurial,5,"257,38",Ana Souza,sul,Loja Online
+1268,01.08.2024,camisa são paulo,5,"R$ 121,19",João,SUDESTE,Loja Shopping Center
+1119,2024-06-02,Bola Futebol Penalty M,1,140.47,João Pedro,Norte,Loja Online
+1210,01/04/2024, Camisa Flamengo ,4,"334,04", Ana Souza, Nordeste ,Loja Centro
+1006,24-Nov-24,Tênis Corrida Asics,1,"R$ 338,85",Fernanda Costa,,Loja Online
+1034,19-May-24, Tênis Corrida Mizuno ,3,"246,98", Carla Mendes,sudeste,Loja Centro
+1004,14-Mar-24,Short Bermuda Dry-Fit M,1,"196,42",Bruno, Centro-Oeste ,Loja Outlet
+1194,2024-09-07, Camisa Vasco ,2,"R$ 416,55",Bruno,NORDESTE,Loja Outlet
+1005,2024-02-26, Bola Futebol Society ,1,"R$ 299,60",Bruno Lima ,Centro-Oeste,Loja Shopping Center
+1280,25.10.2024,Camisa Fluminense M,,"386,30",João Pedro,Nordeste,Loja Outlet
+1160,26/08/2024,Luva de Goleiro M,5,310.96,carla mendes,Nordeste,Loja Outlet
+1092,23-Apr-24,Mochila Esportiva G,1,"412,24",Fernanda Costa,centro-oeste,Loja Online
+1353,19/10/24, Camisa Palmeiras ,5,"43,69",,Sul,Loja Shopping Center
+1346,2024-01-27,CAMISA SELEÇÃO BRASILEIRA,1,"R$ 111,42", Carla Mendes,NORDESTE,Loja Online
+1172,05/04/24,Chuteira Adidas Predator,5,"R$ 45,57",carla mendes,SUDESTE,Loja Shopping Center
+1266,2024-01-05,Agasalho Treino M,1,"361,04",Diego,Sudeste,Loja Shopping Center
+1099,25-Nov-24,Boné Time Brasileirão G,1,"451,64",Bruno Lima ,sudeste,Loja Outlet
+1394,11.07.2024,Bola Futebol Penalty M,1,"R$ 119,40",ANA SOUZA,Nordeste,Loja Online
+1301,28-Oct-24,Luva de Goleiro,1,"279,86",JOÃO PEDRO, Nordeste ,Loja Centro
+1344,2024-04-02,Camisa Vasco,2,"340,81", Carla Mendes,Sudeste,Loja Outlet
+1375,06/04/2024,Bola Futebol Penalty G,1,"140,47",diego alves,centro-oeste,Loja Centro
+1123,2024-09-14,Luva de Goleiro,1,"310,96",Bruno,Nordeste,Loja Shopping Center
+1383,20.06.2024,camisa seleção brasileira,1,111.42,Diego Alves ,Centro-Oeste,Loja Centro
+1345,2024-09-23, Tênis Corrida Asics ,5,"304,97",João Pedro, Sul ,Loja Shopping Center
+1395,2024-09-11,Chuteira Adidas Predator M,3,"48,25",João Pedro, Nordeste ,Loja Shopping Center
+1236,22-Nov-24,Agasalho Treino,1,"324,94",Bruno Lima,SUDESTE,Loja Centro
+1200,22/02/2024,caneleira profissional,3,"131,37",Diego Alves, Sul ,Loja Shopping Center
+1299,26.11.2024,Tênis Corrida Asics M,1,338.85, Carla Mendes,Norte,Loja Centro
+1335,22/07/2024, Camisa Seleção Brasileira ,1,"R$ 111,42",joão pedro,,Loja Centro
+1130,12-Oct-24,CHUTEIRA NIKE MERCURIAL,1,"R$ 233,98",Bruno Lima,centro-oeste,Loja Online
+1050,28/10/24, Garrafa Térmica Squeeze ,2,"36,46", Fernanda Costa, Centro-Oeste ,Loja Online
+1410,2024-08-31,Meião Esportivo G,2,"R$ 44,29", Diego Alves,NORTE,Loja Centro
+1136,12-Oct-24,Agasalho Treino,2,"361,04", Fernanda Costa,SUL,Loja Online
+1138,13.04.2024,CHUTEIRA ADIDAS PREDATOR,2,"45,57", Carla Mendes, Nordeste ,Loja Centro
+1171,19/03/24,Garrafa Térmica Squeeze,,"R$ 47,18",Bruno,Sudeste,Loja Online
+1139,21/02/24,Camisa Internacional,,"R$ 87,88",João Pedro ,SUL,Loja Shopping Center
+1333,26-Mar-24,TÊNIS CORRIDA ASICS,4,"R$ 372,74",Diego Alves , Nordeste ,Loja Centro
+1312,12-Feb-24,CAMISA SELEÇÃO BRASILEIRA,,111.42,, Nordeste ,Loja Centro
+1221,21/07/24,BOLA FUTEBOL PENALTY,1,"R$ 126,42", Ana Souza,SUDESTE,Loja Outlet
+1181,25/06/2024, Mochila Esportiva ,5,"412,24",diego alves, Centro-Oeste ,Loja Centro
+1326,2024-10-22,Chuteira Nike Mercurial,1,"R$ 198,88",Bruno Lima , Nordeste ,Loja Centro
+1272,20/10/24,Camisa Internacional G,1,"R$ 71,90",DIEGO ALVES, Sudeste ,Loja Outlet
+1049,2024-03-18,TÊNIS CORRIDA MIZUNO,2,290.57, Ana Souza,Centro-Oeste,Loja Shopping Center
+1021,02-Jan-24,Tênis Corrida Mizuno,1,"319,63",Ana Souza,centro-oeste,Loja Shopping Center
+1349,05/09/24,Short Bermuda Dry-Fit G,2,"R$ 166,96",Carla,sul,Loja Shopping Center
+1271,2024-09-10,Garrafa Térmica Squeeze,1,"38,60",Ana,Sul,Loja Outlet
+1161,2024-05-31,camisa internacional,2,79.89,ana souza,Norte,Loja Outlet
+1347,18.12.2024,Camisa São Paulo G,1,"142,58",Bruno Lima,Sudeste,Loja Outlet
+1195,06-Sep-24,Camisa Corinthians G,1,"183,05",Fernanda,nordeste,Loja Outlet
