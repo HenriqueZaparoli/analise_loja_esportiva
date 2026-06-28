@@ -1,0 +1,1 @@
+# analise_loja_esportiva
